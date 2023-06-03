@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "name": "siddartha",
+      "salary": "50000",
+      "company": "infosys",
+      "id": 2
+    },
+    {
+      "name": "Pradeep",
+      "salary": "60000",
+      "company": "TCS",
+      "id": 3
+    },
+    {
+      "name": "Pavan",
+      "salary": "56000",
+      "company": "IBM",
+      "id": 5
+    }
+  ]
+}
